@@ -1,0 +1,11 @@
+{
+    "MyInt": 65535,
+    "MyFloat": 3.14,
+    "MyString": "Hello World!",
+    "MyObject": {
+        "one": "Thing one.",
+        "two": "Thing two.",
+        "three": "Thing three."
+    },
+    "MyArray": [5, 4, 3, 2, 1]
+}
